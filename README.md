@@ -13,7 +13,7 @@ Our model detect the eye status at real time
       - OpenCV (opencv-python)
       - TensorFlow or PyTorch (depending on the model you’re using)
       - Any other dependencies listed in requirements.txt.
-      - 
+        
 ## Steps to Set Up and Run the Project Locally
 Clone the Repository
 First, clone this repository to your local machine:

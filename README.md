@@ -1,6 +1,8 @@
 # Emergency-Eye-Detection
 Our model detect the eye status at real time
 
+## Try it here : https://huggingface.co/spaces/abhinavyadav11/Emergency-Eye-Detection
+
 ![Project Screenshot](Screenshot.jpeg)
 
 # How to Run the Eye Detection Project Locally

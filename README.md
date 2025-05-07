@@ -5,6 +5,8 @@ Our model detect the eye status at real time
 
 ![Project Screenshot](Screenshot.jpeg)
 
+<img width="1445" alt="Screenshot 2025-05-08 at 4 58 10 AM" src="https://github.com/user-attachments/assets/e4d753bf-35ca-4168-b230-842a1fca45af" />
+
 # How to Run the Eye Detection Project Locally
 ## This project requires webcam access for real-time eye detection. Follow the instructions below to set up and run the project locally.
 

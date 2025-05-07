@@ -37,7 +37,7 @@ Run the Script
 To start the eye detection using your webcam, run the script that initiates the webcam access and performs detection. This could be something like eye_detection.py or whatever your main script is called. For example:
 
 ```bash
-python Emergency_Eye_Detection.py
+python app.py
 ```
 The script will attempt to access your webcam and display a window with the real-time video feed. If eyes are detected, the model will trigger the necessary actions (like an alert if the eyes are closed for too long).
 
